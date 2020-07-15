@@ -10,11 +10,535 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17337e6c-464b-4d73-b6da-fb58466efe30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/67. 二进制求和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/79. 单词搜索.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指 Offer 09. 用两个栈实现队列.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指 Offer 10- I. 斐波那契数列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/01-Selection-Sort/.idea/01-1-Selection-Sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/01-Selection-Sort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/01-Selection-Sort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/01-Selection-Sort/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/01-Selection-Sort/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/01-Selection-Sort/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/01-Selection-Sort/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/01-Selection-Sort/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/02-Selection-Sort-Using-Template/.idea/02-Selection-Sort-Using-Template.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/02-Selection-Sort-Using-Template/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/02-Selection-Sort-Using-Template/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/02-Selection-Sort-Using-Template/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/02-Selection-Sort-Using-Template/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/02-Selection-Sort-Using-Template/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/02-Selection-Sort-Using-Template/Student.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/02-Selection-Sort-Using-Template/Student.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/02-Selection-Sort-Using-Template/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/02-Selection-Sort-Using-Template/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/03-Selection-Sort-Generate-Test-Cases/.idea/03-Selection-Sort-Generate-Test-Cases.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/03-Selection-Sort-Generate-Test-Cases/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/03-Selection-Sort-Generate-Test-Cases/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/03-Selection-Sort-Generate-Test-Cases/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/03-Selection-Sort-Generate-Test-Cases/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/03-Selection-Sort-Generate-Test-Cases/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/03-Selection-Sort-Generate-Test-Cases/SortTestHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/03-Selection-Sort-Generate-Test-Cases/SortTestHelper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/03-Selection-Sort-Generate-Test-Cases/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/03-Selection-Sort-Generate-Test-Cases/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/04-Selection-Sort-Detect-Performance/.idea/04-Selection-Sort-Detect-Performance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/04-Selection-Sort-Detect-Performance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/04-Selection-Sort-Detect-Performance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/04-Selection-Sort-Detect-Performance/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/04-Selection-Sort-Detect-Performance/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/04-Selection-Sort-Detect-Performance/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/04-Selection-Sort-Detect-Performance/SortTestHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/04-Selection-Sort-Detect-Performance/SortTestHelper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/04-Selection-Sort-Detect-Performance/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/04-Selection-Sort-Detect-Performance/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/05-Insertion-Sort/.idea/03-Insertion-Sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/05-Insertion-Sort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/05-Insertion-Sort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/05-Insertion-Sort/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/05-Insertion-Sort/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/05-Insertion-Sort/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/05-Insertion-Sort/SelectionSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/05-Insertion-Sort/SelectionSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/05-Insertion-Sort/SortTestHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/05-Insertion-Sort/SortTestHelper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/05-Insertion-Sort/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/05-Insertion-Sort/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/06-Insertion-Sort-Advance/.idea/06-Insertion-Sort-Advance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/06-Insertion-Sort-Advance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/06-Insertion-Sort-Advance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/06-Insertion-Sort-Advance/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/06-Insertion-Sort-Advance/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/06-Insertion-Sort-Advance/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/06-Insertion-Sort-Advance/SelectionSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/06-Insertion-Sort-Advance/SelectionSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/06-Insertion-Sort-Advance/SortTestHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/06-Insertion-Sort-Advance/SortTestHelper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/06-Insertion-Sort-Advance/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/06-Insertion-Sort-Advance/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/Optional-01-Bubble-Sort/.idea/Optional-01-Bubble-Sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/Optional-01-Bubble-Sort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/Optional-01-Bubble-Sort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/Optional-01-Bubble-Sort/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/Optional-01-Bubble-Sort/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/Optional-01-Bubble-Sort/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/Optional-01-Bubble-Sort/InsertionSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/Optional-01-Bubble-Sort/InsertionSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/Optional-01-Bubble-Sort/SelectionSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/Optional-01-Bubble-Sort/SelectionSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/Optional-01-Bubble-Sort/SortTestHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/Optional-01-Bubble-Sort/SortTestHelper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/Optional-01-Bubble-Sort/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/Optional-01-Bubble-Sort/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/Optional-02-Shell-Sort/.idea/Optional-02-Shell-Sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/Optional-02-Shell-Sort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/Optional-02-Shell-Sort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/Optional-02-Shell-Sort/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/Optional-02-Shell-Sort/BubbleSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/Optional-02-Shell-Sort/BubbleSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/Optional-02-Shell-Sort/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/Optional-02-Shell-Sort/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/Optional-02-Shell-Sort/InsertionSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/Optional-02-Shell-Sort/InsertionSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/Optional-02-Shell-Sort/SelectionSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/Optional-02-Shell-Sort/SelectionSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/Optional-02-Shell-Sort/SortTestHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/Optional-02-Shell-Sort/SortTestHelper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Sorting-Basic/Optional-02-Shell-Sort/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/02-Sorting-Basic/Optional-02-Shell-Sort/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/02-Merge-Sort/.idea/02-Merge-Sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/02-Merge-Sort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/02-Merge-Sort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/02-Merge-Sort/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/02-Merge-Sort/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/02-Merge-Sort/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/02-Merge-Sort/InsertionSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/02-Merge-Sort/InsertionSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/02-Merge-Sort/SortTestHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/02-Merge-Sort/SortTestHelper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/02-Merge-Sort/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/02-Merge-Sort/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/03-Merge-Sort-Advance/.idea/03-Merge-Sort-Advance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/03-Merge-Sort-Advance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/03-Merge-Sort-Advance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/03-Merge-Sort-Advance/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/03-Merge-Sort-Advance/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/03-Merge-Sort-Advance/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/03-Merge-Sort-Advance/InsertionSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/03-Merge-Sort-Advance/InsertionSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/03-Merge-Sort-Advance/MergeSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/03-Merge-Sort-Advance/MergeSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/03-Merge-Sort-Advance/SortTestHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/03-Merge-Sort-Advance/SortTestHelper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/03-Merge-Sort-Advance/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/03-Merge-Sort-Advance/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/04-Merge-Sort-Bottom-Up/.idea/04-Merge-Sort-Bottom-Up.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/04-Merge-Sort-Bottom-Up/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/04-Merge-Sort-Bottom-Up/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/04-Merge-Sort-Bottom-Up/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/04-Merge-Sort-Bottom-Up/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/04-Merge-Sort-Bottom-Up/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/04-Merge-Sort-Bottom-Up/InsertionSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/04-Merge-Sort-Bottom-Up/InsertionSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/04-Merge-Sort-Bottom-Up/MergeSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/04-Merge-Sort-Bottom-Up/MergeSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/04-Merge-Sort-Bottom-Up/SortTestHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/04-Merge-Sort-Bottom-Up/SortTestHelper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/04-Merge-Sort-Bottom-Up/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/04-Merge-Sort-Bottom-Up/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/05-Quick-Sort/.idea/05-Quick-Sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/05-Quick-Sort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/05-Quick-Sort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/05-Quick-Sort/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/05-Quick-Sort/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/05-Quick-Sort/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/05-Quick-Sort/InsertionSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/05-Quick-Sort/InsertionSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/05-Quick-Sort/MergeSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/05-Quick-Sort/MergeSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/05-Quick-Sort/SortTestHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/05-Quick-Sort/SortTestHelper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/05-Quick-Sort/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/05-Quick-Sort/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/06-Quick-Sort-Deal-With-Nearly-Ordered-Array/.idea/06-Quick-Sort-Deal-With-Nearly-Ordered-Array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/06-Quick-Sort-Deal-With-Nearly-Ordered-Array/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/06-Quick-Sort-Deal-With-Nearly-Ordered-Array/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/06-Quick-Sort-Deal-With-Nearly-Ordered-Array/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/06-Quick-Sort-Deal-With-Nearly-Ordered-Array/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/06-Quick-Sort-Deal-With-Nearly-Ordered-Array/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/06-Quick-Sort-Deal-With-Nearly-Ordered-Array/InsertionSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/06-Quick-Sort-Deal-With-Nearly-Ordered-Array/InsertionSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/06-Quick-Sort-Deal-With-Nearly-Ordered-Array/MergeSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/06-Quick-Sort-Deal-With-Nearly-Ordered-Array/MergeSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/06-Quick-Sort-Deal-With-Nearly-Ordered-Array/SortTestHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/06-Quick-Sort-Deal-With-Nearly-Ordered-Array/SortTestHelper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/06-Quick-Sort-Deal-With-Nearly-Ordered-Array/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/06-Quick-Sort-Deal-With-Nearly-Ordered-Array/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/07-Quick-Sort-Deal-With-Identical-Keys/.idea/07-Quick-Sort-Deal-With-Identical-Keys.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/07-Quick-Sort-Deal-With-Identical-Keys/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/07-Quick-Sort-Deal-With-Identical-Keys/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/07-Quick-Sort-Deal-With-Identical-Keys/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/07-Quick-Sort-Deal-With-Identical-Keys/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/07-Quick-Sort-Deal-With-Identical-Keys/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/07-Quick-Sort-Deal-With-Identical-Keys/InsertionSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/07-Quick-Sort-Deal-With-Identical-Keys/InsertionSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/07-Quick-Sort-Deal-With-Identical-Keys/MergeSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/07-Quick-Sort-Deal-With-Identical-Keys/MergeSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/07-Quick-Sort-Deal-With-Identical-Keys/SortTestHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/07-Quick-Sort-Deal-With-Identical-Keys/SortTestHelper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/07-Quick-Sort-Deal-With-Identical-Keys/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/07-Quick-Sort-Deal-With-Identical-Keys/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/08-Quick-Sort-Three-Ways/.idea/08-Quick-Sort-Three-Ways.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/08-Quick-Sort-Three-Ways/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/08-Quick-Sort-Three-Ways/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/08-Quick-Sort-Three-Ways/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/08-Quick-Sort-Three-Ways/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/08-Quick-Sort-Three-Ways/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/08-Quick-Sort-Three-Ways/InsertionSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/08-Quick-Sort-Three-Ways/InsertionSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/08-Quick-Sort-Three-Ways/MergeSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/08-Quick-Sort-Three-Ways/MergeSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/08-Quick-Sort-Three-Ways/QuickSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/08-Quick-Sort-Three-Ways/QuickSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/08-Quick-Sort-Three-Ways/SortTestHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/08-Quick-Sort-Three-Ways/SortTestHelper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Sorting-Advance/08-Quick-Sort-Three-Ways/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/03-Sorting-Advance/08-Quick-Sort-Three-Ways/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/02-Max-Heap-Class-Basic/.idea/02-Max-Heap-Class-Basic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/02-Max-Heap-Class-Basic/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/02-Max-Heap-Class-Basic/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/02-Max-Heap-Class-Basic/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/02-Max-Heap-Class-Basic/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/02-Max-Heap-Class-Basic/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/02-Max-Heap-Class-Basic/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/02-Max-Heap-Class-Basic/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/03-Shift-Up/.idea/03-Shift-Up.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/03-Shift-Up/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/03-Shift-Up/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/03-Shift-Up/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/03-Shift-Up/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/03-Shift-Up/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/03-Shift-Up/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/03-Shift-Up/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/04-Shift-Down/.idea/04-Shift-Down.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/04-Shift-Down/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/04-Shift-Down/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/04-Shift-Down/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/04-Shift-Down/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/04-Shift-Down/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/04-Shift-Down/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/04-Shift-Down/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/05-Heapify/.idea/05-Heapify.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/05-Heapify/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/05-Heapify/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/05-Heapify/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/05-Heapify/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/05-Heapify/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/05-Heapify/Heap.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/05-Heapify/Heap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/05-Heapify/InsertionSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/05-Heapify/InsertionSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/05-Heapify/MergeSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/05-Heapify/MergeSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/05-Heapify/QuickSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/05-Heapify/QuickSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/05-Heapify/SortTestHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/05-Heapify/SortTestHelper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/05-Heapify/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/05-Heapify/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/06-Heap-Sort/.idea/06-Heap-Sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/06-Heap-Sort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/06-Heap-Sort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/06-Heap-Sort/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/06-Heap-Sort/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/06-Heap-Sort/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/06-Heap-Sort/Heap.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/06-Heap-Sort/Heap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/06-Heap-Sort/HeapSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/06-Heap-Sort/HeapSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/06-Heap-Sort/InsertionSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/06-Heap-Sort/InsertionSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/06-Heap-Sort/MergeSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/06-Heap-Sort/MergeSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/06-Heap-Sort/QuickSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/06-Heap-Sort/QuickSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/06-Heap-Sort/SortTestHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/06-Heap-Sort/SortTestHelper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/06-Heap-Sort/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/06-Heap-Sort/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/08-Index-Heap/.idea/08-Index-Heap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/08-Index-Heap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/08-Index-Heap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/08-Index-Heap/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/08-Index-Heap/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/08-Index-Heap/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/08-Index-Heap/SortTestHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/08-Index-Heap/SortTestHelper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/08-Index-Heap/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/08-Index-Heap/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/09-Index-Heap-Advance/.idea/09-Index-Heap-Advance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/09-Index-Heap-Advance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/09-Index-Heap-Advance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/09-Index-Heap-Advance/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/09-Index-Heap-Advance/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/09-Index-Heap-Advance/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/09-Index-Heap-Advance/SortTestHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/09-Index-Heap-Advance/SortTestHelper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/09-Index-Heap-Advance/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/09-Index-Heap-Advance/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/Heap/.idea/Heap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/Heap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/Heap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/Heap/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/Heap/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/Heap/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/Heap/IndexMaxHeap.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/Heap/IndexMaxHeap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/Heap/IndexMinHeap.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/Heap/IndexMinHeap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/Heap/MaxHeap.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/Heap/MaxHeap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/Heap/MinHeap.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/Heap/MinHeap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/Heap/SortTestHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/Heap/SortTestHelper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-Heap/Heap/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/04-Heap/Heap/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/01-Binary-Search/.idea/01-Binary-Search.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/01-Binary-Search/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/01-Binary-Search/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/01-Binary-Search/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/01-Binary-Search/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/01-Binary-Search/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/01-Binary-Search/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/01-Binary-Search/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/02-Binary-Search-Tree-Basics/.idea/02-Binary-Search-Tree-Basics.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/02-Binary-Search-Tree-Basics/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/02-Binary-Search-Tree-Basics/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/02-Binary-Search-Tree-Basics/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/02-Binary-Search-Tree-Basics/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/02-Binary-Search-Tree-Basics/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/02-Binary-Search-Tree-Basics/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/02-Binary-Search-Tree-Basics/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/03-Binary-Search-Tree-Insert/.idea/03-Binary-Search-Tree-Insert.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/03-Binary-Search-Tree-Insert/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/03-Binary-Search-Tree-Insert/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/03-Binary-Search-Tree-Insert/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/03-Binary-Search-Tree-Insert/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/03-Binary-Search-Tree-Insert/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/03-Binary-Search-Tree-Insert/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/03-Binary-Search-Tree-Insert/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/04-Binary-Search-Tree-Search/.idea/04-Binary-Search-Tree-Search.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/04-Binary-Search-Tree-Search/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/04-Binary-Search-Tree-Search/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/04-Binary-Search-Tree-Search/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/04-Binary-Search-Tree-Search/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/04-Binary-Search-Tree-Search/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/04-Binary-Search-Tree-Search/FileOps.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/04-Binary-Search-Tree-Search/FileOps.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/04-Binary-Search-Tree-Search/SequenceST.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/04-Binary-Search-Tree-Search/SequenceST.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/04-Binary-Search-Tree-Search/bible.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/04-Binary-Search-Tree-Search/bible.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/04-Binary-Search-Tree-Search/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/04-Binary-Search-Tree-Search/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/05-Binary-Search-Tree-Traverse/.idea/05-Binary-Search-Tree-Traverse.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/05-Binary-Search-Tree-Traverse/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/05-Binary-Search-Tree-Traverse/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/05-Binary-Search-Tree-Traverse/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/05-Binary-Search-Tree-Traverse/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/05-Binary-Search-Tree-Traverse/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/05-Binary-Search-Tree-Traverse/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/05-Binary-Search-Tree-Traverse/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/06-Binary-Search-Tree-Level-Traverse/.idea/06-Binary-Search-Tree-Level-Traverse.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/06-Binary-Search-Tree-Level-Traverse/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/06-Binary-Search-Tree-Level-Traverse/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/06-Binary-Search-Tree-Level-Traverse/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/06-Binary-Search-Tree-Level-Traverse/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/06-Binary-Search-Tree-Level-Traverse/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/06-Binary-Search-Tree-Level-Traverse/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/06-Binary-Search-Tree-Level-Traverse/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/07-Binary-Search-Tree-Remove-Min-and-Max/.idea/07-Binary-Search-Tree-Remove-Min-and-Max.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/07-Binary-Search-Tree-Remove-Min-and-Max/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/07-Binary-Search-Tree-Remove-Min-and-Max/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/07-Binary-Search-Tree-Remove-Min-and-Max/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/07-Binary-Search-Tree-Remove-Min-and-Max/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/07-Binary-Search-Tree-Remove-Min-and-Max/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/07-Binary-Search-Tree-Remove-Min-and-Max/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/07-Binary-Search-Tree-Remove-Min-and-Max/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/08-Binary-Search-Tree-Remove/.idea/08-Binary-Search-Tree-Remove.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/08-Binary-Search-Tree-Remove/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/08-Binary-Search-Tree-Remove/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/08-Binary-Search-Tree-Remove/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/08-Binary-Search-Tree-Remove/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/08-Binary-Search-Tree-Remove/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/08-Binary-Search-Tree-Remove/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/08-Binary-Search-Tree-Remove/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/10-The-Disadvantages-of-Binary-Search-Tree-and-More-Trees/.idea/10-The-Disadvantages-of-Binary-Search-Tree-and-More-Trees.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/10-The-Disadvantages-of-Binary-Search-Tree-and-More-Trees/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/10-The-Disadvantages-of-Binary-Search-Tree-and-More-Trees/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/10-The-Disadvantages-of-Binary-Search-Tree-and-More-Trees/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/10-The-Disadvantages-of-Binary-Search-Tree-and-More-Trees/BST.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/10-The-Disadvantages-of-Binary-Search-Tree-and-More-Trees/BST.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/10-The-Disadvantages-of-Binary-Search-Tree-and-More-Trees/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/10-The-Disadvantages-of-Binary-Search-Tree-and-More-Trees/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/10-The-Disadvantages-of-Binary-Search-Tree-and-More-Trees/FileOps.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/10-The-Disadvantages-of-Binary-Search-Tree-and-More-Trees/FileOps.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/10-The-Disadvantages-of-Binary-Search-Tree-and-More-Trees/SequenceST.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/10-The-Disadvantages-of-Binary-Search-Tree-and-More-Trees/SequenceST.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/10-The-Disadvantages-of-Binary-Search-Tree-and-More-Trees/bible.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/10-The-Disadvantages-of-Binary-Search-Tree-and-More-Trees/bible.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/10-The-Disadvantages-of-Binary-Search-Tree-and-More-Trees/communist.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/10-The-Disadvantages-of-Binary-Search-Tree-and-More-Trees/communist.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/10-The-Disadvantages-of-Binary-Search-Tree-and-More-Trees/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/10-The-Disadvantages-of-Binary-Search-Tree-and-More-Trees/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/Binary Search Tree/.idea/Binary Search Tree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/Binary Search Tree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/Binary Search Tree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/Binary Search Tree/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/Binary Search Tree/BST.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/Binary Search Tree/BST.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/Binary Search Tree/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/Binary Search Tree/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/Binary Search Tree/FileOps.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/Binary Search Tree/FileOps.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/Binary Search Tree/SequenceST.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/Binary Search Tree/SequenceST.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/Binary Search Tree/bible.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/Binary Search Tree/bible.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/Binary Search Tree/main_bst_basics.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/Binary Search Tree/main_bst_basics.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/Binary Search Tree/main_bst_remove.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/Binary Search Tree/main_bst_remove.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/Binary Search Tree/main_bst_sst_cmp.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/Binary Search Tree/main_bst_sst_cmp.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Binary-Search-Tree/Binary Search Tree/main_sst.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/05-Binary-Search-Tree/Binary Search Tree/main_sst.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/02-Quick-Find/.idea/02-Quick-Find.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/02-Quick-Find/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/02-Quick-Find/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/02-Quick-Find/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/02-Quick-Find/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/02-Quick-Find/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/02-Quick-Find/UnionFind1.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/02-Quick-Find/UnionFind1.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/02-Quick-Find/UnionFindTestHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/02-Quick-Find/UnionFindTestHelper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/02-Quick-Find/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/02-Quick-Find/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/03-Quick-Union/.idea/03-Quick-Union.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/03-Quick-Union/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/03-Quick-Union/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/03-Quick-Union/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/03-Quick-Union/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/03-Quick-Union/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/03-Quick-Union/UnionFind1.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/03-Quick-Union/UnionFind1.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/03-Quick-Union/UnionFind2.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/03-Quick-Union/UnionFind2.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/03-Quick-Union/UnionFindTestHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/03-Quick-Union/UnionFindTestHelper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/03-Quick-Union/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/03-Quick-Union/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/04-Optimize-by-Size/.idea/04-Optimize-by-Size.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/04-Optimize-by-Size/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/04-Optimize-by-Size/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/04-Optimize-by-Size/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/04-Optimize-by-Size/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/04-Optimize-by-Size/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/04-Optimize-by-Size/UnionFind1.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/04-Optimize-by-Size/UnionFind1.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/04-Optimize-by-Size/UnionFind2.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/04-Optimize-by-Size/UnionFind2.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/04-Optimize-by-Size/UnionFind3.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/04-Optimize-by-Size/UnionFind3.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/04-Optimize-by-Size/UnionFindTestHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/04-Optimize-by-Size/UnionFindTestHelper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/04-Optimize-by-Size/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/04-Optimize-by-Size/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/05-Optimize-by-Rank/.idea/05-Optimize-by-Rank.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/05-Optimize-by-Rank/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/05-Optimize-by-Rank/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/05-Optimize-by-Rank/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/05-Optimize-by-Rank/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/05-Optimize-by-Rank/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/05-Optimize-by-Rank/UnionFind1.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/05-Optimize-by-Rank/UnionFind1.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/05-Optimize-by-Rank/UnionFind2.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/05-Optimize-by-Rank/UnionFind2.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/05-Optimize-by-Rank/UnionFind3.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/05-Optimize-by-Rank/UnionFind3.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/05-Optimize-by-Rank/UnionFindTestHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/05-Optimize-by-Rank/UnionFindTestHelper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/05-Optimize-by-Rank/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/05-Optimize-by-Rank/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/UnionFind/.idea/UnionFind.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/UnionFind/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/UnionFind/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/UnionFind/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/UnionFind/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/UnionFind/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/UnionFind/UnionFind1.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/UnionFind/UnionFind1.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/UnionFind/UnionFind2.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/UnionFind/UnionFind2.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/UnionFind/UnionFind3.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/UnionFind/UnionFind3.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/UnionFind/UnionFind4.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/UnionFind/UnionFind4.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/UnionFind/UnionFind5.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/UnionFind/UnionFind5.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/UnionFind/UnionFindTestHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/UnionFind/UnionFindTestHelper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/UnionFind/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/UnionFind/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-Union-Find/UnionFind/main_path_compression.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/06-Union-Find/UnionFind/main_path_compression.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/02-Graph-Representation/.idea/02-Graph-Representation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/02-Graph-Representation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/02-Graph-Representation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/02-Graph-Representation/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/02-Graph-Representation/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/02-Graph-Representation/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/02-Graph-Representation/DenseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/02-Graph-Representation/DenseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/02-Graph-Representation/SparseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/02-Graph-Representation/SparseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/02-Graph-Representation/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/02-Graph-Representation/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/03-Vertex Adjacent Iterator/.idea/03-Vertex Adjacent Iterator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/03-Vertex Adjacent Iterator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/03-Vertex Adjacent Iterator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/03-Vertex Adjacent Iterator/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/03-Vertex Adjacent Iterator/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/03-Vertex Adjacent Iterator/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/03-Vertex Adjacent Iterator/DenseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/03-Vertex Adjacent Iterator/DenseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/03-Vertex Adjacent Iterator/SparseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/03-Vertex Adjacent Iterator/SparseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/03-Vertex Adjacent Iterator/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/03-Vertex Adjacent Iterator/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/04-Read-Graph/.idea/04-Read-Graph.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/04-Read-Graph/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/04-Read-Graph/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/04-Read-Graph/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/04-Read-Graph/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/04-Read-Graph/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/04-Read-Graph/DenseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/04-Read-Graph/DenseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/04-Read-Graph/ReadGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/04-Read-Graph/ReadGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/04-Read-Graph/SparseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/04-Read-Graph/SparseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/04-Read-Graph/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/04-Read-Graph/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/04-Read-Graph/testG1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/04-Read-Graph/testG1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/04-Read-Graph/testG2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/04-Read-Graph/testG2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/05-DFS-and-Components/.idea/05-DFS-and-Components.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/05-DFS-and-Components/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/05-DFS-and-Components/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/05-DFS-and-Components/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/05-DFS-and-Components/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/05-DFS-and-Components/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/05-DFS-and-Components/Components.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/05-DFS-and-Components/Components.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/05-DFS-and-Components/DenseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/05-DFS-and-Components/DenseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/05-DFS-and-Components/ReadGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/05-DFS-and-Components/ReadGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/05-DFS-and-Components/SparseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/05-DFS-and-Components/SparseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/05-DFS-and-Components/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/05-DFS-and-Components/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/05-DFS-and-Components/testG1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/05-DFS-and-Components/testG1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/05-DFS-and-Components/testG2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/05-DFS-and-Components/testG2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/06-Finding-a-Path/.idea/06-Finding-a-Path.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/06-Finding-a-Path/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/06-Finding-a-Path/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/06-Finding-a-Path/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/06-Finding-a-Path/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/06-Finding-a-Path/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/06-Finding-a-Path/DenseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/06-Finding-a-Path/DenseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/06-Finding-a-Path/Path.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/06-Finding-a-Path/Path.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/06-Finding-a-Path/ReadGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/06-Finding-a-Path/ReadGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/06-Finding-a-Path/SparseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/06-Finding-a-Path/SparseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/06-Finding-a-Path/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/06-Finding-a-Path/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/06-Finding-a-Path/testG1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/06-Finding-a-Path/testG1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/06-Finding-a-Path/testG2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/06-Finding-a-Path/testG2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/07-BFS-and-Shortest-Path/.idea/07-BFS-and-Shortest-Path.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/07-BFS-and-Shortest-Path/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/07-BFS-and-Shortest-Path/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/07-BFS-and-Shortest-Path/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/07-BFS-and-Shortest-Path/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/07-BFS-and-Shortest-Path/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/07-BFS-and-Shortest-Path/DenseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/07-BFS-and-Shortest-Path/DenseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/07-BFS-and-Shortest-Path/Path.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/07-BFS-and-Shortest-Path/Path.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/07-BFS-and-Shortest-Path/ReadGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/07-BFS-and-Shortest-Path/ReadGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/07-BFS-and-Shortest-Path/ShortestPath.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/07-BFS-and-Shortest-Path/ShortestPath.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/07-BFS-and-Shortest-Path/SparseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/07-BFS-and-Shortest-Path/SparseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/07-BFS-and-Shortest-Path/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/07-BFS-and-Shortest-Path/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/Graph/.idea/Graph.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/Graph/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/Graph/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/Graph/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/Graph/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/Graph/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/Graph/Component.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/Graph/Component.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/Graph/DenseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/Graph/DenseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/Graph/Path.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/Graph/Path.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/Graph/RandomGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/Graph/RandomGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/Graph/ReadGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/Graph/ReadGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/Graph/ShortestPath.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/Graph/ShortestPath.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/Graph/SparseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/Graph/SparseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/Graph/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/Graph/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/Graph/main_component.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/Graph/main_component.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/Graph/main_component2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/Graph/main_component2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/Graph/main_path.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/Graph/main_path.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/Graph/main_test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/Graph/main_test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/Graph/testG1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/Graph/testG1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-Graph-Basics/Graph/testG2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/07-Graph-Basics/Graph/testG2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/01-Weighted-Graph/.idea/01-Weighted-Graph.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/01-Weighted-Graph/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/01-Weighted-Graph/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/01-Weighted-Graph/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/01-Weighted-Graph/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/01-Weighted-Graph/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/01-Weighted-Graph/DenseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/01-Weighted-Graph/DenseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/01-Weighted-Graph/Edge.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/01-Weighted-Graph/Edge.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/01-Weighted-Graph/ReadGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/01-Weighted-Graph/ReadGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/01-Weighted-Graph/SparseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/01-Weighted-Graph/SparseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/01-Weighted-Graph/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/01-Weighted-Graph/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/01-Weighted-Graph/testG1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/01-Weighted-Graph/testG1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/03-Lazy-Prim/.idea/03-Lazy-Prim.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/03-Lazy-Prim/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/03-Lazy-Prim/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/03-Lazy-Prim/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/03-Lazy-Prim/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/03-Lazy-Prim/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/03-Lazy-Prim/DenseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/03-Lazy-Prim/DenseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/03-Lazy-Prim/Edge.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/03-Lazy-Prim/Edge.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/03-Lazy-Prim/LazyPrimMST.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/03-Lazy-Prim/LazyPrimMST.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/03-Lazy-Prim/MinHeap.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/03-Lazy-Prim/MinHeap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/03-Lazy-Prim/ReadGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/03-Lazy-Prim/ReadGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/03-Lazy-Prim/SparseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/03-Lazy-Prim/SparseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/03-Lazy-Prim/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/03-Lazy-Prim/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/03-Lazy-Prim/testG1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/03-Lazy-Prim/testG1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/.idea/05-Implementation-of-Optimized-Prim-Algorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/DenseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/DenseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/Edge.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/Edge.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/IndexMinHeap.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/IndexMinHeap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/LazyPrimMST.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/LazyPrimMST.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/MinHeap.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/MinHeap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/PrimMST.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/PrimMST.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/ReadGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/ReadGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/SparseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/SparseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/main_performance.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/main_performance.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/testG1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/testG1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/testG2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/testG2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/testG3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/testG3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/testG4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/05-Implementation-of-Optimized-Prim-Algorithm/testG4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/06-Kruskal-Algorithm/.idea/06-Kruskal-Algorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/06-Kruskal-Algorithm/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/06-Kruskal-Algorithm/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/06-Kruskal-Algorithm/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/06-Kruskal-Algorithm/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/06-Kruskal-Algorithm/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/06-Kruskal-Algorithm/DenseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/06-Kruskal-Algorithm/DenseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/06-Kruskal-Algorithm/Edge.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/06-Kruskal-Algorithm/Edge.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/06-Kruskal-Algorithm/IndexMinHeap.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/06-Kruskal-Algorithm/IndexMinHeap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/06-Kruskal-Algorithm/KruskalMST.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/06-Kruskal-Algorithm/KruskalMST.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/06-Kruskal-Algorithm/LazyPrimMST.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/06-Kruskal-Algorithm/LazyPrimMST.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/06-Kruskal-Algorithm/MinHeap.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/06-Kruskal-Algorithm/MinHeap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/06-Kruskal-Algorithm/PrimMST.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/06-Kruskal-Algorithm/PrimMST.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/06-Kruskal-Algorithm/ReadGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/06-Kruskal-Algorithm/ReadGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/06-Kruskal-Algorithm/SparseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/06-Kruskal-Algorithm/SparseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/06-Kruskal-Algorithm/UF.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/06-Kruskal-Algorithm/UF.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/06-Kruskal-Algorithm/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/06-Kruskal-Algorithm/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/06-Kruskal-Algorithm/main_performance.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/06-Kruskal-Algorithm/main_performance.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/06-Kruskal-Algorithm/testG1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/06-Kruskal-Algorithm/testG1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/06-Kruskal-Algorithm/testG2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/06-Kruskal-Algorithm/testG2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/06-Kruskal-Algorithm/testG3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/06-Kruskal-Algorithm/testG3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/06-Kruskal-Algorithm/testG4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/06-Kruskal-Algorithm/testG4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/MinimumSpanTree/.idea/MinimumSpanTree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/MinimumSpanTree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/MinimumSpanTree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/MinimumSpanTree/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/MinimumSpanTree/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/MinimumSpanTree/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/MinimumSpanTree/DenseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/MinimumSpanTree/DenseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/MinimumSpanTree/Edge.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/MinimumSpanTree/Edge.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/MinimumSpanTree/IndexMinHeap.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/MinimumSpanTree/IndexMinHeap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/MinimumSpanTree/KruskalMST.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/MinimumSpanTree/KruskalMST.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/MinimumSpanTree/LazyPrimMST.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/MinimumSpanTree/LazyPrimMST.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/MinimumSpanTree/MinHeap.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/MinimumSpanTree/MinHeap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/MinimumSpanTree/PrimMST.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/MinimumSpanTree/PrimMST.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/MinimumSpanTree/ReadGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/MinimumSpanTree/ReadGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/MinimumSpanTree/SparseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/MinimumSpanTree/SparseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/MinimumSpanTree/UF.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/MinimumSpanTree/UF.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/MinimumSpanTree/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/MinimumSpanTree/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/MinimumSpanTree/main_mst.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/MinimumSpanTree/main_mst.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/MinimumSpanTree/main_mst_performance.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/MinimumSpanTree/main_mst_performance.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/MinimumSpanTree/testG1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/MinimumSpanTree/testG1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/MinimumSpanTree/testG2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/MinimumSpanTree/testG2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/MinimumSpanTree/testG3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/MinimumSpanTree/testG3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-Minimum-Span-Trees/MinimumSpanTree/testG4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/08-Minimum-Span-Trees/MinimumSpanTree/testG4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/03-Implementation-of-Dijkstra/.idea/03-Implementation-of-Dijkstra.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/03-Implementation-of-Dijkstra/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/03-Implementation-of-Dijkstra/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/03-Implementation-of-Dijkstra/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/03-Implementation-of-Dijkstra/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/03-Implementation-of-Dijkstra/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/03-Implementation-of-Dijkstra/DenseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/03-Implementation-of-Dijkstra/DenseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/03-Implementation-of-Dijkstra/Dijkstra.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/03-Implementation-of-Dijkstra/Dijkstra.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/03-Implementation-of-Dijkstra/Edge.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/03-Implementation-of-Dijkstra/Edge.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/03-Implementation-of-Dijkstra/IndexMinHeap.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/03-Implementation-of-Dijkstra/IndexMinHeap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/03-Implementation-of-Dijkstra/ReadGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/03-Implementation-of-Dijkstra/ReadGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/03-Implementation-of-Dijkstra/SparseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/03-Implementation-of-Dijkstra/SparseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/03-Implementation-of-Dijkstra/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/03-Implementation-of-Dijkstra/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/03-Implementation-of-Dijkstra/testG1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/03-Implementation-of-Dijkstra/testG1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/05-Implementation-of-Bellman-Ford/.idea/05-Implementation-of-Bellman-Ford.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/05-Implementation-of-Bellman-Ford/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/05-Implementation-of-Bellman-Ford/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/05-Implementation-of-Bellman-Ford/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/05-Implementation-of-Bellman-Ford/BellmanFord.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/05-Implementation-of-Bellman-Ford/BellmanFord.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/05-Implementation-of-Bellman-Ford/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/05-Implementation-of-Bellman-Ford/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/05-Implementation-of-Bellman-Ford/DenseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/05-Implementation-of-Bellman-Ford/DenseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/05-Implementation-of-Bellman-Ford/Edge.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/05-Implementation-of-Bellman-Ford/Edge.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/05-Implementation-of-Bellman-Ford/ReadGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/05-Implementation-of-Bellman-Ford/ReadGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/05-Implementation-of-Bellman-Ford/SparseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/05-Implementation-of-Bellman-Ford/SparseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/05-Implementation-of-Bellman-Ford/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/05-Implementation-of-Bellman-Ford/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/05-Implementation-of-Bellman-Ford/testG2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/05-Implementation-of-Bellman-Ford/testG2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/05-Implementation-of-Bellman-Ford/testG_negative_circle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/05-Implementation-of-Bellman-Ford/testG_negative_circle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/ShortestPath/.idea/ShortestPath.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/ShortestPath/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/ShortestPath/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/ShortestPath/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/ShortestPath/BellmanFord.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/ShortestPath/BellmanFord.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/ShortestPath/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/ShortestPath/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/ShortestPath/DenseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/ShortestPath/DenseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/ShortestPath/Dijkstra.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/ShortestPath/Dijkstra.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/ShortestPath/Edge.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/ShortestPath/Edge.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/ShortestPath/IndexMinHeap.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/ShortestPath/IndexMinHeap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/ShortestPath/ReadGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/ShortestPath/ReadGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/ShortestPath/SparseGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/ShortestPath/SparseGraph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/ShortestPath/main_bell.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/ShortestPath/main_bell.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/ShortestPath/main_dij.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/ShortestPath/main_dij.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/ShortestPath/testG1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/ShortestPath/testG1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/ShortestPath/testG2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/ShortestPath/testG2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Shortest-Path/ShortestPath/testG_negative_circle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++/09-Shortest-Path/ShortestPath/testG_negative_circle.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,29 +552,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/79. 单词搜索.py">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="306">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/剑指 Offer 04. 二维数组中的查找.cpp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/剑指 Offer 03. 数组中重复的数字.py">
+        <entry file="file://$PROJECT_DIR$/C++/03-Sorting-Advance/05-Quick-Sort/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="255">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,13 +589,14 @@
         <option value="$PROJECT_DIR$/67. 二进制求和.py" />
         <option value="$PROJECT_DIR$/剑指 Offer 10- I. 斐波那契数列.py" />
         <option value="$PROJECT_DIR$/79. 单词搜索.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="437" />
-    <option name="y" value="23" />
-    <option name="width" value="1213" />
+    <option name="x" value="845" />
+    <option name="y" value="495" />
+    <option name="width" value="1302" />
     <option name="height" value="970" />
   </component>
   <component name="ProjectView">
@@ -84,6 +611,11 @@
             <path>
               <item name="Happy-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Happy-Algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Happy-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Happy-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -109,8 +641,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.79. 单词搜索">
-    <configuration name="面试题 16.18. 模式匹配" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.剑指 Offer 07. 重建二叉树">
+    <configuration name="剑指 Offer 07. 重建二叉树" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Happy-Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +650,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/面试题 16.18. 模式匹配.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/剑指 Offer 07. 重建二叉树.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +675,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/剑指 Offer 09. 用两个栈实现队列.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/剑指 Offer 09. 用两个栈实现队列.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +696,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/剑指 Offer 10- I. 斐波那契数列.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/剑指 Offer 10- I. 斐波那契数列.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,7 +717,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/67. 二进制求和.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/67. 二进制求和.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,7 +738,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/79. 单词搜索.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/79. 单词搜索.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,11 +749,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.剑指 Offer 07. 重建二叉树" />
         <item itemvalue="Python.79. 单词搜索" />
         <item itemvalue="Python.剑指 Offer 10- I. 斐波那契数列" />
         <item itemvalue="Python.67. 二进制求和" />
         <item itemvalue="Python.剑指 Offer 09. 用两个栈实现队列" />
-        <item itemvalue="Python.面试题 16.18. 模式匹配" />
       </list>
     </recent_temporary>
   </component>
@@ -235,17 +767,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592813705741</updated>
-      <workItem from="1594789136460" duration="164000" />
+      <workItem from="1594789136460" duration="418000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164000" />
+    <option name="totallyTimeSpent" value="418000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="247" y="23" width="1213" height="970" extended-state="0" />
+    <frame x="150" y="23" width="1342" height="970" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3467122" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41846153" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -256,8 +788,8 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32915717" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32915717" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Database" />
@@ -319,7 +851,7 @@
     <entry file="file://$PROJECT_DIR$/79. 单词搜索.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
@@ -328,8 +860,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指 Offer 03. 数组中重复的数字.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="238">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C++/03-Sorting-Advance/05-Quick-Sort/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>
