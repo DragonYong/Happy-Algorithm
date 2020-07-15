@@ -2,8 +2,8 @@ import numpy as np
 
 
 def quick_sort(arr, left=None, right=None):
-    left = 0 if not isinstance(left,(int,float)) else left
-    right = len(arr)-1 if not isinstance(right,(int,float)) else right
+    left = 0 if not isinstance(left, (int, float)) else left
+    right = len(arr)-1 if not isinstance(right, (int, float)) else right
     if left < right:
         partition_index = partition(arr, left, right)
         quick_sort(arr, left, partition_index-1)
