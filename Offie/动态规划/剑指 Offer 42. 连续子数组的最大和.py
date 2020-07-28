@@ -4,9 +4,10 @@ class Solution:
         dp = [0]*len(nums)
         dp[0] = nums[0]
         for i in range(1, len(nums)):
+            # 当dp[i-1]产生负相关,这重新取值
             dp[i] = max(dp[i-1]+nums[i], nums[i])
             # print(dp[i])
-        print(dp)
+        # print(dp)
         return max(dp)
 
 
