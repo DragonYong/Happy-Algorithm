@@ -1,8 +1,8 @@
 class Solution:
 
     # 递归算法超时
-    def max3(self, i, j, k):
-        return max(i, max(j, k))
+    # def max3(self, i, j, k):
+    #     return max(i, max(j, k))
 
     # def cuttingRope(self, n: int) -> int:
     #     memo = [-1]*(n+1)
@@ -23,12 +23,12 @@ class Solution:
         dp[1] = 1
         for i in range(2, n+1):
             for j in range(1, i):
-                dp[i] = self.max3(dp[i], j*(i-j), j*dp[i-j])
+                dp[i] = max(dp[i], j*(i-j), j*dp[i-j])
 
         return dp[-1]
 
 
-print(Solution().cuttingRope(10))
+print(Solution().cuttingRope(2))
 
 # 这个递推关系搞不清
 # 给你一根长度为 n 的绳子，请把绳子剪成整数长度的 m 段（m、n都是整数，n>1并且m>1）
