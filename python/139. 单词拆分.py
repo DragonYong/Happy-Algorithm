@@ -8,7 +8,7 @@ class Solution:
 
         for i in range(n):
             for j in range(i+1, n+1):
-                if dp[j] and (s[i:j] in wordDict):
+                if dp[i] and (s[i:j] in wordDict):
                     # 归纳条件
                     dp[j] = True
         return dp[-1]
