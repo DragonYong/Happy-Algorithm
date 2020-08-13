@@ -1,6 +1,6 @@
 def edit_distance(str1, str2):
-    n = len(str1)
-    m = len(str2)
+    n = len(str1)+1
+    m = len(str2)+1
     dp = [[0 for i in range(m)] for j in range(n)]
     for i in range(n):
         dp[i][0] = i
