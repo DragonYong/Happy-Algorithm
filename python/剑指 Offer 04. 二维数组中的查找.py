@@ -8,16 +8,30 @@
 
 class Solution:
     def findNumberIn2DArray(self, matrix, target):
-        n = len(matrix[0])
-        m = len(matrix)
-        # print(m, n)
-        temp=0
+        n = len(matrix[0]) - 1
+        m = len(matrix) - 1
+        i = m
+        j = 0
+        while i >= 0 and j <= n:
+            if target > matrix[i][j]:
+                j += 1
+            elif target < matrix[i][j]:
+                i -= 1
+            else:
+                return True
+        return True
 
-        while n and m:
-            if target < matrix[m][n]:
-                n -= 1
-            elif target > matrix[m][n]:
-                m+= 1
+        # # print(m, n)　
+        # temp = 0
+        # i = m
+        # while n and i <= m:
+        #     if target < matrix[m - i][n]:
+        #         n -= 1
+        #     elif target > matrix[m - i][n]:
+        #         i += 1
+        #     elif target == matrix[m - i][n]:
+        #         return True
+        # return False
 
 
 if __name__ == '__main__':
